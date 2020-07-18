@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Unicron Bot](https://github.com/oadpoaw/unicron-bot)
+- 📫 How to reach me: through my [discord](https://discord.gg/Pp9T2zS)
