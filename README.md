@@ -2,8 +2,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="undefine#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord
-[<img align="left" alt="oadpoaw | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
+[<img align="left" alt="undefine#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
+[discord]: https://dsc.bio/undefine
 
 <br />
 
@@ -24,8 +24,6 @@
 
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
 <img align="right" alt="oadpoaw's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&hide_border=true" />
-
-[discord]: https://dsc.bio/undefine
 
 [visualstudiocode]: https://code.visualstudio.com/
 [github]: https://github.com/
