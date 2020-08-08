@@ -1,4 +1,4 @@
-## Hello world! I'm oadpoaw! 👋
+## Hello! I'm oadpoaw! 👋
 
 ### Connect with me:
 
