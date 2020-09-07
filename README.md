@@ -26,4 +26,4 @@ Full Stack Web Developer with a flair for creating elegant solutions in the leas
 ---
 
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact)](https://github.com/oadpoaw)
+<img align="left" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw" />
