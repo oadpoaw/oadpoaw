@@ -21,7 +21,7 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 ---
 
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact)](https://github.com/oadpoaw)
+<img align="right" alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" />
 
 [visualstudiocode]: https://code.visualstudio.com/
 [github]: https://github.com/
