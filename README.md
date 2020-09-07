@@ -7,6 +7,8 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
 <img align="right" alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" />
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
