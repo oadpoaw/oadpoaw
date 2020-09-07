@@ -1,7 +1,9 @@
 ## Hello! I'm oadpoaw! 👋
 
+Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][Discord]
 
+<br />
 <br />
 
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
@@ -9,6 +11,8 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 
 <br />
 <br />
+
+---
 
 ### Languages and Tools:
 
