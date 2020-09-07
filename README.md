@@ -8,6 +8,7 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 <img align="right" alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" />
 
 <br />
+<br />
 
 ### Languages and Tools:
 
