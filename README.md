@@ -18,13 +18,14 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 <img style="margin: 2px" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img style="margin: 2px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 [<img style="margin: 2px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-</div>
---- 
-<img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
-<img alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" /> <br />
-
+  
 [visualstudiocode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/
 [discord]: https://dsc.bio/undefine
+  
+</div>
+--- 
+<img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
+<img alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" /> <br />
