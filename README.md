@@ -1,10 +1,8 @@
 ## Hello! I'm oadpoaw! 👋
 
-Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time and creative cloud computing. <br />
+Full Stack Web Developer with a flair for creating elegant solutions in the least amount of time and creative cloud computing. <br /> <br />
 Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][Discord]
 
-<br />
-<br />
 
 ---
 
@@ -16,18 +14,13 @@ Add me on Discord! [<img align="left" alt="undefine#0001 | Discord" width="22px"
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascriptjavascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
 --- 
-<br />
-<br />
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
 <img align="right" alt="oadpoaw's most used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&layout=compact" />
-
-<br />
-<br />
 ---
 
 [visualstudiocode]: https://code.visualstudio.com/
