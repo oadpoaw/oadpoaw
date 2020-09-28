@@ -28,4 +28,4 @@ I also make discord bots ;) <br /> <br />
 ---
 
 <img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
-<img align="left" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=8" />
+<img align="left" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=8?compact=true" />
