@@ -4,6 +4,7 @@ Full Stack Web Developer with a flair for creating elegant solutions in the leas
 I also make discord bots ;) <br /> <br />
 [Add me on Discord! <img align="left" alt="undefine#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://dsc.bio/undefine)
 
+https://oadpoaw.xyz/
 
 ---
 
@@ -27,5 +28,5 @@ I also make discord bots ;) <br /> <br />
 
 ---
 
-<img align="left" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=8&layout=compact" />
-<img align="right" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
+<img alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=8&layout=compact" />
+<img alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&hide_border=true" />
