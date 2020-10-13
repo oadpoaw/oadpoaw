@@ -28,5 +28,5 @@ https://oadpoaw.xyz/
 
 ---
 
-<img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true" width="368px"/>
+<img align="left" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true" width="400px"/>
 <img align="center" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=8&layout=compact" />
