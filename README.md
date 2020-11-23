@@ -1,6 +1,6 @@
 ## Hello! I'm oadpoaw! 👋
 
-Full Stack Web Developer and Software Developer with a flair for creating elegant solutions in the least amount of time and creative cloud computing. <br /> 
+Web Developer, Software Programmer and Junior Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 <br /> <br />
 
 Join my Discord https://discord.gg/9X5DVWT <br />
