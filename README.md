@@ -1,5 +1,5 @@
 ## Hello! I'm oadpoaw! 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
 Web Developer, Software Programmer and Junior Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 <br /> <br />
