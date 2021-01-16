@@ -1,10 +1,10 @@
 ## Hello! I'm oadpoaw! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-Web Developer, Software Programmer and Junior Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
+Web and Software Developer, System Administrator and Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 <br /> <br />
 
-Join my Discord https://discord.gg/9X5DVWT <br />
+Join my Discord https://discord.gg/cb8kVAvDbq <br />
 Visit my site https://oadpoaw.xyz/
 
 ---
