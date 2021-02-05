@@ -14,7 +14,7 @@ Web and Software Developer, System Administrator and Hacker with a flair for cre
 - JavaScript/TypeScript Programming
 - A Bit of C/C++, Python and Java Programming as a beginner (still learning)
 
-## Tools and Environments i am familiar with
+## Tools and Environments I use
 - Node.js and Deno
 - Visual Studio Code
 - Automactic Integration/Deployments with Github Workflows/Actions
@@ -22,6 +22,17 @@ Web and Software Developer, System Administrator and Hacker with a flair for cre
 - Databases such as SQLite, MongoDB, MySQL, MariaDB and PostgreSQL
 - Linux Server Setup - Ubuntu, Arch and CentOS Distributions
 - Package Managers such as NPM, Yarn, chocolatey, vcpkg, apt, apt-get and Nu-Get
+
+## Web Development Technologies I use
+- Babel, Webpack
+- PostCSS, Autoprefixer, PurgeCSS
+- Web Subresource Integrity
+- Cross-Origin-Resource-Sharing
+- TypeScript React or just React
+- Content-Security-Policy for secure headers
+- TailwindCSS, Bootstrap, Material UI, Material Bootstrap
+- API/Backend Development 
+- Passport.js, OAuth2, WebSockets using sockjs, socket.io or the native websocket
 
 Join my Discord https://discord.gg/cb8kVAvDbq <br />
 
