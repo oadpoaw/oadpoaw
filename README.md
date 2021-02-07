@@ -4,7 +4,7 @@
 Web and Software Developer, System Administrator and Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 <br /> <br />
 
-## Things i can do
+## Things I can do
 - Web Security
 - Web Development - React.js, EJS, Express.js
 - Systems Administration - Linux, Ubuntu, Nginx Web Server.
@@ -13,6 +13,7 @@ Web and Software Developer, System Administrator and Hacker with a flair for cre
 - Discord Bot Application Development - Discord.js with Node.js
 - JavaScript/TypeScript Programming
 - A Bit of C/C++, Python and Java Programming as a beginner (still learning)
+- Setup Cloudflare SSL/TLS Certificates or Let's Encrypt Certificates (CertBot)
 
 ## Tools and Environments I use
 - Node.js and Deno
@@ -20,7 +21,7 @@ Web and Software Developer, System Administrator and Hacker with a flair for cre
 - Automactic Integration/Deployments with Github Workflows/Actions
 - Pentest Tools such as Nmap Port Scanning, Aircrack-ng, Wire-shark
 - Databases such as SQLite, MongoDB, MySQL, MariaDB and PostgreSQL
-- Linux Server Setup - Ubuntu, Arch and CentOS Distributions
+- Linux Server Setup - Ubuntu, Arch and CentOS Distributions - Nginx, Certbot, Docker
 - Package Managers such as NPM, Yarn, chocolatey, vcpkg, apt, apt-get and Nu-Get
 
 ## Web Development Technologies I use
