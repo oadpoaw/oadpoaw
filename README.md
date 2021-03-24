@@ -3,6 +3,7 @@
 
 Web and Software Developer, System Administrator and Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
 <br /> <br />
+My Discord: oadpoaw#2690
 
 ## Things I can do
 - Web Security
