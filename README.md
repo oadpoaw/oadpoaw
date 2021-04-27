@@ -5,7 +5,6 @@ Web and Software Developer, System Administrator and Hacker with a flair for cre
 <br /> <br />
 
 I also do work, jobs, school, open source and commissions at the same time since I mastered time management and more <br />
-My Discord: oadpoaw#2690 <br />
 
 Join my Discord https://discord.gg/cb8kVAvDbq <br />
 
