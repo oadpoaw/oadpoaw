@@ -8,7 +8,7 @@ I'm a dev.
 - Cyber Security and Social Engineering.
 - Managing Services, Networks.
 - Strategic Marketing.
-- Data Science and Analytics.
+- Data Science, Analytics and Analysis.
 - DevOps CI/CD (Continuous Integration/Delivery/Deployment)
 - Open Sourcerer/Maintainer/Contributor.
 
