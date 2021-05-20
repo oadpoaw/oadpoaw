@@ -1,10 +1,7 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-Web and Software Developer, System Administrator and Hacker with a flair for creating elegant solutions in the least amount of time and creative cloud computing.
-<br /> <br />
-
-I also do work, jobs, school, open source and commissions at the same time since I mastered time management and more <br />
+I'm a dev.
 
 Join my Discord https://discord.gg/S3pt594EVH <br />
 
