@@ -1,11 +1,12 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-I'm a dev.
+I'm a dev. and a Computer Science Student.
 
 ### My Professions:
 - Web Development, Discord Bot Development (I mostly do Web Development).
 - Cyber Security and Social Engineering.
+- Systems Administration to design patterns to scale modern applications.
 - Managing Services, Networks.
 - Strategic Marketing.
 - Data Science, Analytics and Analysis.
@@ -49,6 +50,7 @@ I'm a dev.
   - [SQLite](https://www.sqlite.org/) is a relational database management system contained in a C library.
   - and many more!
 - [MongooseJS](https://mongoosejs.com/) is an object modeling for [MongoDB](http://mongodb.com/) (The most popular database for modern applications)
+- [Redis](https://redis.io/) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker.
 
 #### Cyber Security and Systems Administration
 - Managing [CDNs](https://en.wikipedia.org/wiki/Content_delivery_network) with [Cloudflare](https://www.cloudflare.com/) or [Google Cloud](https://cloud.google.com/)
