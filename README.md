@@ -6,7 +6,7 @@ I'm a dev. and a Computer Science Student.
 ### My Professions:
 - Web Development, Discord Bot Development (I mostly do Web Development).
 - Cyber Security and Social Engineering.
-- Systems Administration to design patterns to scale modern applications.
+- Systems Administration to design patterns to scale/manage modern web applications.
 - Managing Services, Networks.
 - Strategic Marketing.
 - Data Science, Analytics and Analysis.
