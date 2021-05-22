@@ -1,7 +1,7 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-I'm a dev. and a Computer Science Student.
+I'm a dev and a Computer Science Student.
 
 ### My Professions:
 - Web Development, Discord Bot Development (I mostly do Web Development).
