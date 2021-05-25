@@ -9,6 +9,7 @@ I'm a dev and a Computer Science Student.
 - Systems Administration to design patterns to scale/manage modern web applications.
 - Managing Services, Networks.
 - Strategic Marketing.
+- Watching hentai traps.
 - Data Science, Analytics and Analysis.
 - DevOps CI/CD (Continuous Integration/Delivery/Deployment)
 - Open Sourcerer/Maintainer/Contributor.
