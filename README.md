@@ -1,15 +1,13 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-I'm a dev and a Computer Science Student.
+I'm a dev and an ICT Student
 
 ### My Professions:
-- Web Development, Discord Bot Development (I mostly do Web Development).
-- Cyber Security and Social Engineering.
+- Web Development.
 - Systems Administration to design patterns to scale/manage modern web applications.
 - Managing Services, Networks.
 - Strategic Marketing.
-- Data Science, Analytics and Analysis.
 - DevOps CI/CD (Continuous Integration/Delivery/Deployment)
 - Open Sourcerer/Maintainer/Contributor.
 
@@ -19,7 +17,6 @@ I'm a dev and a Computer Science Student.
 - [Node.js](https://nodejs.org/) is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 - [Github](https://github.com) is a provider of Internet hosting for software development and version control using [Git](https://git-scm.com/)
 - [Github Actions](https://github.com/features/actions) makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from [Github](https://github.com).
-- [Discord.js](https://discord.js.org/) is a powerful JavaScript library for interacting with the [Discord API](https://discord.com/developers/docs)
 
 #### Web Development
 
@@ -52,7 +49,7 @@ I'm a dev and a Computer Science Student.
 - [MongooseJS](https://mongoosejs.com/) is an object modeling for [MongoDB](http://mongodb.com/) (The most popular database for modern applications)
 - [Redis](https://redis.io/) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker.
 
-#### Cyber Security and Systems Administration
+#### Systems Administration
 - Managing [CDNs](https://en.wikipedia.org/wiki/Content_delivery_network) with [Cloudflare](https://www.cloudflare.com/) or [Google Cloud](https://cloud.google.com/)
 - [Linux](https://www.linux.org/) is an open-source Unix-like operating systems based on the Linux kernel.
 - [Nginx](https://www.nginx.com/) accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
@@ -60,19 +57,6 @@ I'm a dev and a Computer Science Student.
 - [Google Cloud](https://cloud.google.com/) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube.
 - [Cloudflare](https://www.cloudflare.com/) is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
 - [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
-- [Wireshark](https://www.wireshark.org/) is a network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network. 
-- [Ettercap](https://www.ettercap-project.org/) is a comprehensive suite which features sniffing of live connections, content filtering, and support for active and passive dissection of many protocols, including multiple features for network and host analysis.
-- [CertBot](https://certbot.eff.org/) with [Let's Encrypt](https://letsencrypt.org/) to provides X.509 certificates for Transport Layer Security encryption at no charge
-
-### Currently working:
-- [Xetha Bot](https://xetha-bot.me) is a powerful advanced multipurpose bot for discord.
-- _Secret_
-- _Secret_
-- _Secret_
-
-### Social Links
-
-Join my Discord https://discord.gg/S3pt594EVH <br />
 
 ---
 
