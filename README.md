@@ -53,10 +53,7 @@ I'm a dev and an ICT Student
 - Managing [CDNs](https://en.wikipedia.org/wiki/Content_delivery_network) with [Cloudflare](https://www.cloudflare.com/) or [Google Cloud](https://cloud.google.com/)
 - [Linux](https://www.linux.org/) is an open-source Unix-like operating systems based on the Linux kernel.
 - [Nginx](https://www.nginx.com/) accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
-- [AWS](https://aws.amazon.com/) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
-- [Google Cloud](https://cloud.google.com/) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube.
 - [Cloudflare](https://www.cloudflare.com/) is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
-- [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 
 ---
 
