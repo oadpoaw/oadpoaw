@@ -3,6 +3,8 @@
 
 I'm a dev and an ICT Student
 
+My Discord: undefine#2690
+
 ### My Professions:
 - Web Development.
 - Systems Administration to design patterns to scale/manage modern web applications.
