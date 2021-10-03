@@ -1,7 +1,7 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-I'm a dev and an ICT Student
+ICT Student and Web Developer.
 
 My Discord: undefine#2690
 
