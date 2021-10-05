@@ -1,7 +1,7 @@
 ## Hello! I'm undefine! 👋
 ![](https://komarev.com/ghpvc/?username=oadpoaw&color=green)
 
-ICT Student and Web Developer.
+ICT Student, Web Developer, JavaScript/TypeScript Developer and Systems Administrator. he/him.
 
 My Discord: undefine#2690
 
