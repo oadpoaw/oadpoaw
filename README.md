@@ -7,7 +7,7 @@ My Discord: undefine#2690
 
 ### My Professions:
 - Web Development.
-- Systems Administration to design patterns to scale/manage modern web applications.
+- Systems Administration to design patterns and manage to scale/manage modern web applications.
 - Managing Services, Networks.
 - Strategic Marketing.
 - DevOps CI/CD (Continuous Integration/Delivery/Deployment)
