@@ -3,7 +3,8 @@
 
 ICT Student, Full Stack Web Developer, JavaScript/TypeScript Developer and Systems Administrator. he/him.
 
-My Discord: undefine#2690
+My Discord: undefine#2690 / https://discord.gg/7Xuy3wgWZu
+
 
 ### My Professions:
 - Web Development.
