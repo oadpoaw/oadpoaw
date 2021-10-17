@@ -5,7 +5,3 @@ ICT Student, Full Stack Web Developer, Open Sourcerer and Systems Administrator.
 
 Website Portfolio: https://undefine-dev.tech/ <br />
 My Discord: undefine#2690 / https://discord.gg/7Xuy3wgWZu
----
-
-<img align="left" alt="oadpoaw's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadpoaw&langs_count=12&layout=compact" />
-<img align="center" alt="oadpoaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true" width="416px"/>
