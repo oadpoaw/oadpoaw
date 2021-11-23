@@ -17,6 +17,7 @@ Full Stack Developer working with JavaScript / TypeScript, React, and Java. Nimb
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" alt="letsencrypt" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
