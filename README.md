@@ -19,7 +19,7 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="55" height="55"/>  
 </p>
 
-### Libraries and frameworks
+### Libraries and Frameworks
 <p>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="55" height="55"/>
