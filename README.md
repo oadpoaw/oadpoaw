@@ -19,7 +19,7 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="55" height="55"/>  
 </p>
 
-### Libraries and Tools
+### Libraries and frameworks
 <p>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="55" height="55"/>
@@ -67,6 +67,7 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>  
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="55" height="55"/>  
       <img src="https://img.utdstc.com/icon/af8/c23/af8c232af40e6bbb677b3439d7e0ff2f3b5069bf59a7b1ed34e15b9e36dfbb52:200" alt="capcut" width="55" height="55"/> 
       <img src="https://play-lh.googleusercontent.com/mKVQE-V16mEbA_xNHJKz-jkbOxDW97775dxZxW7rgrDD14WmR2J0U9xDqSt0CBXk3-4=s180-rw" alt="kinemaster" width="55" height="55"/> 
       <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" alt="davinciresolve" width="55" height="55"/> 
