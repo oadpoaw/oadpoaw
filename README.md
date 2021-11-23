@@ -7,6 +7,12 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
 - 🧵 Currently learning Rust, Go and Spring framework
 - 📚 And learning data structures and algorithms
 
+## Key Notes ✍️
+
+- Self taught, Full Stack Developer
+- Started coding since **2016**
+- Willing to learn new things all the time, and work in teams 😄
+
 ## What technologies I use:
 ### Programming Languages
 <p>
@@ -86,12 +92,6 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
       <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="reddit" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="55" height="55"/>
 </p>
-
-## Key Notes ✍️
-
-- Self taught, Full Stack Developer
-- Started coding in **2017**
-- Willing to learn new things all the time, and work in teams 😄
 
 ## 📫 How to reach me
 
