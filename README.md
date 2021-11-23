@@ -17,7 +17,7 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
 
 https://undefine-dev.tech/
 
-## What technologies I use:
+## Technologies that I use:
 ### Programming Languages
 <p>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
