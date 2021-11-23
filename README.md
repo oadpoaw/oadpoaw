@@ -82,6 +82,7 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
       <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="reddit" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="55" height="55"/>
 </p>
 
 ## Key Notes ✍️
