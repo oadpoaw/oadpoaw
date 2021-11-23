@@ -3,7 +3,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 Full Stack Developer, Nimble witted, and Open Source Contributor.
 - 📖 I am currently reading **The 48 Laws of Power** by Robert Greene.
-- 💬 Talk to me about finance, cyber security, stock market & philosophy.
+- 💬 Talk to me about finance, cyber security, marketing, stock market & philosophy.
 - 🧵 Currently learning Rust, Go and Spring framework
 
 ## What technologies I use:
