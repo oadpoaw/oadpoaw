@@ -13,6 +13,10 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
 - Started coding since **2016**
 - Willing to learn new things all the time, and work in teams 😄
 
+## Website Portfolio
+
+https://undefine-dev.tech/
+
 ## What technologies I use:
 ### Programming Languages
 <p>
@@ -96,10 +100,6 @@ Full Stack Developer, Nimble witted, and Open Source Contributor.
 ## 📫 How to reach me
 
 - Discord: undefine#2690 / https://discord.gg/7Xuy3wgWZu
-
-## Website Portfolio
-
-https://undefine-dev.tech/
 
 ## 👀 Quick Statistics
 
