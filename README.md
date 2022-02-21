@@ -33,9 +33,7 @@ https://undefine-dev.tech/
       <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="55" height="55"/>
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/passport.svg" alt="passportjs" width="55" height="55"/>
       <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="55" height="55"/>
 </p>
