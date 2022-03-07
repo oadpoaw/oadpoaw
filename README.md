@@ -1,7 +1,7 @@
 # Hello! I'm undefine! 👋 <img src="https://komarev.com/ghpvc/?username=oadpoaw" alt="" align="center" />
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-Full Stack Developer, Nimble witted, and Open Source Contributor.
+Full Stack Web Developer, Software Developer, and Systems Administrator. 
 - 📖 I am currently reading **The 48 Laws of Power** by Robert Greene.
 - 💬 Talk to me about finance, cyber security, marketing, & philosophy.
 - 📚 And learning data structures and algorithms
