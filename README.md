@@ -11,7 +11,8 @@ Full Stack Web Developer, Software Developer, and Systems Administrator.
 - Self taught, Full Stack Developer
 - Started coding since **2016**
 - Willing to learn new things all the time, and work in teams 😄
-- Currently learning Bachelor of Science in Information Technology
+- Information Communications Technology in Web Development and Mobile Development.
+- Will take Bachelor of Science in Information Technology next year OR I'll take Bachelor of Science in Business Management
 
 ## Website Portfolio
 
