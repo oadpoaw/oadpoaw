@@ -11,6 +11,7 @@ Full Stack Web Developer, Software Developer, and Systems Administrator.
 - Self taught, Full Stack Developer
 - Started coding since **2016**
 - Willing to learn new things all the time, and work in teams 😄
+- Currently learning Bachelor of Science in Information Technology
 
 ## Website Portfolio
 
