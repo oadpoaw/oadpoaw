@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oadpoaw&show_icons=true&locale=en" alt="oadpoaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oadpoaw&" alt="oadpoaw" /></p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
