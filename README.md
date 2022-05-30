@@ -4,7 +4,7 @@
 - I’m currently learning **data structures, algorithms etc.**
 - Ask me about **web development and philosophy.**
 - Currently taking ICT on Web Development and Android Development in my senior high school.
-- Will take Bachelor of Science in Information Technology or Business Management.
+- Will take Bachelor of Science in Information Technology or Business Management for College.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
