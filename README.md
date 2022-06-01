@@ -18,7 +18,3 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oadpoaw&" alt="oadpoaw" />
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
