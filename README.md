@@ -3,7 +3,7 @@
 
 - I’m currently learning **data structures, algorithms etc.**
 - Ask me about **web development and philosophy.**
-- Coding since 2018 !
+- Coding since 2016 !
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
