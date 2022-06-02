@@ -5,15 +5,18 @@
 - Ask me about **web development and philosophy.**
 - Coding since 2018 !
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/7Xuy3wgWZu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7Xuy3wgWZu" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,cpp,cloudflare,css,discord,bots,electron,express,figma,firebase,git,github,html,java,js,jquery,linux,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,postgres,prisma,react,redis,regex,tailwind,ts,vscode" />
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://discord.gg/7Xuy3wgWZu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7Xuy3wgWZu" height="30" width="40" /></a>
+
 </p>
 
