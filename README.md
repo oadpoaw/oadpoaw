@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm oadpoaw (Also known as Undefine) <img src="https://komarev.com/ghpvc/?username=oadpoaw&label=Profile%20views&color=0e75b6&style=flat" alt="oadpoaw" /></h1>
+<h1 align="left">Hi 👋, I'm Undefine <img src="https://komarev.com/ghpvc/?username=oadpoaw&label=Profile%20views&color=0e75b6&style=flat" alt="oadpoaw" /></h1>
 <h3 align="left">A passionate developer with a flair of creating elegant solutions in a small amount of time.</h3>
 
 - I’m currently learning **data structures, algorithms etc.**
