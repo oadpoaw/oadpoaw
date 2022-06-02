@@ -3,8 +3,7 @@
 
 - I’m currently learning **data structures, algorithms etc.**
 - Ask me about **web development and philosophy.**
-- Currently taking ICT on Web Development and Android Development in my senior high school.
-- Taking Bachelor of Science in Information Technology or Business Management in College.
+- Coding since 2018 !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
